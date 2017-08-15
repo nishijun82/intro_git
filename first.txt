@@ -2,3 +2,4 @@ Gitのtest
 work
 git add
 git commit
+git rm
