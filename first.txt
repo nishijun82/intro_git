@@ -1,2 +1,4 @@
 Gitのtest
 work
+git add
+git commit
